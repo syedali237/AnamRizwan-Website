@@ -9,9 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-image: url("https://www.transparenttextures.com/patterns/batthern.png"); */
   background-color: #e5e5f7;
-  /* background-color: black; */
   /* opacity: 0.2; */
   background-image:  linear-gradient(#FFB3BC 1px, transparent 1px), linear-gradient(to right, #FFB3BC 1px, #FFFED3 1px);
   background-size: 15px 15px;

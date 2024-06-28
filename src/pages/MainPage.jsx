@@ -23,8 +23,7 @@ export default function MainPage() {
             creativity with clarity in content. I like to sing, dance and just
             roam around and talk to people like me. You will often find me at a
             random metro station humming to my favourite songs while waiting for
-            the metro. Full Delulu!!! Now, you will see me bragging about my
-            skills. STAY TUNED!
+            the metro. Full Delulu!!!
           </p>
         </div>
         {/* right side div */}
